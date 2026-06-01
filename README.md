@@ -68,7 +68,7 @@ These projects are intended for learning, experimentation, portfolio development
 | Project                       | Description                                                            | View       |
 | ----------------------------- | ---------------------------------------------------------------------- | ---------- |
 | AI Chatbot                    | Build a conversational AI assistant with memory and context awareness. |[![GitHub](https://img.shields.io/badge/GitHub-View-black?logo=github)](https://github.com/muqadasejaz/AI-Projects/tree/main/AI%20Chatbot)  |
-| Prompt Engineering Playground | Experiment with prompts, parameters, and model behavior in real time.  | [![GitHub](https://img.shields.io/badge/GitHub-View-black?logo=github)]() |
+| Prompt Engineering Playground | Experiment with prompts, parameters, and model behavior in real time.  | [![GitHub](https://img.shields.io/badge/GitHub-View-black?logo=github)](https://github.com/muqadasejaz/AI-Projects/tree/main/Prompt%20Engineering%20Playground) |
 | AI Text Summarizer            | Convert long-form content into concise, actionable summaries.          | [![GitHub](https://img.shields.io/badge/GitHub-View-black?logo=github)]() |
 | AI Document Q&A Bot           | Ask questions about uploaded documents using retrieval-based AI.       | [![GitHub](https://img.shields.io/badge/GitHub-View-black?logo=github)]() |
 | AI Resume Analyzer            | Analyze resumes, generate scores, and provide structured feedback.     | [![GitHub](https://img.shields.io/badge/GitHub-View-black?logo=github)]() |
