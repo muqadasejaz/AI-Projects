@@ -13,11 +13,11 @@ Build a Prompt Engineering Playground web application that allows users to:
 
 ### What You'll Learn
 
-* ✅ Prompt Engineering Fundamentals
-* ✅ Controlling Model Behavior (System vs User Prompts)
-* ✅ Sampling Controls (Temperature)
-* ✅ Safe Prompting Patterns
-* ✅ Building Reusable AI Tools
+*  Prompt Engineering Fundamentals
+*  Controlling Model Behavior (System vs User Prompts)
+*  Sampling Controls (Temperature)
+*  Safe Prompting Patterns
+*  Building Reusable AI Tools
 
 ---
 
@@ -34,10 +34,10 @@ A Prompt Engineering Playground using:
 
 By the end of this project, you'll have:
 
-* ✔ A Working Prompt Lab UI
-* ✔ A Template Library (JSON-Based)
-* ✔ A Reusable Safe Prompt Wrapper
-* ✔ A Foundation for Advanced LLM Applications
+* A Working Prompt Lab UI
+* A Template Library (JSON-Based)
+* A Reusable Safe Prompt Wrapper
+* A Foundation for Advanced LLM Applications
 
 ---
 
